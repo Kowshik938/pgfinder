@@ -1,0 +1,6 @@
+{
+  "name": "PGFinder",
+  "description": "Full-stack PG discovery and booking platform featuring verified properties, room comparisons, interactive maps, and real-time availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
